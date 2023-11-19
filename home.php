@@ -12,6 +12,11 @@ if ($_POST) {
     $uname = $_POST["username"];
     $pass = $_POST["password"];
     $sql = "SELECT * FROM users_tutorial WHERE username = '$uname' AND password = '$pass'";
+    /*
+
+    do parameterized query here or whatever defense mechanism you want
+
+    */
     $result = mysqli_query($conn, $sql);
     if (mysqli_num_rows($result) > 0) {
 ?>
