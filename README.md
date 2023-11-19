@@ -6,3 +6,9 @@ This is considereably dangerous as the attacker can create a new account that wi
 Tools used in this project: XAMPP, VSCODE, PHP, HTML, CSS
 
 This project will also showcase the end result once ample defenses/detection algorithms are implemented into the website preventing SQLi attacks from being performed on that website.
+
+
+
+
+https://github.com/Eterxy/SQL-Injection-Attack/assets/72849551/3bd6fccf-5ff8-4b21-a167-1a529db04693
+
